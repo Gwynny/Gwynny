@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to rank. You can check repo below. Soon will be project with ranking.
-- 👯 I’m looking to collaborate on ranking and recommendations problems
-
 <!--
 **Gwynny/Gwynny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
