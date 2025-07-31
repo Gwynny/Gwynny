@@ -1,4 +1,11 @@
 ### Hi there 👋
+🔭 I’m currently working on mastering LLMs and AI Agents
+
+👯 I’m looking to collaborate on Fraud, LLMs, AI Agents
+
+💬 Ask me about NLP, Ranking and Fraud
+
+My project for showcasing is [ranking-service](https://github.com/Gwynny/ranking-service). There I implemented KNRM from scratch as well as put everything into FastAPI and didn't forget about reproducibility of my results.
 
 <!--
 **Gwynny/Gwynny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
